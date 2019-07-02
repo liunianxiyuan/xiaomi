@@ -817,6 +817,9 @@ input{
     transform: rotate(180deg);
     display: none;
 }
+.neirongzuo:hover{
+    background-color:#757575;
+}
 .neirongzuo i{
     font-size: 20px;
     color: #fff;
@@ -833,6 +836,9 @@ input{
     margin-bottom:auto;
     right: 0;
     display:none;
+}
+.neirongyou:hover{
+    background-color:#757575;
 }
 .neirongyou i{
     font-size: 20px;

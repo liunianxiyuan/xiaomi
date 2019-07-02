@@ -1032,12 +1032,14 @@ input{
     position: relative;
 }
 
-}
-
 .shiping:hover {
     transform: translatey(-2px);
     box-shadow: 0 0 20px 0.5px #e0e0e0;
     transition: 0.5s;
+}
+.shiping1:hover .shiping4{
+    border: 2px solid #ff6700;
+    background-color: #ff6700;
 }
 
 .shiping1 {
@@ -1058,11 +1060,12 @@ input{
     height: 20px;
     text-align: center;
     line-height: 20px;
+   
 }
-.shiping1:hov
 .shiping4 i{
     color: #fff;
     font-size: 16px;
+    
 }
 .shiping img {
     width: 296px;
